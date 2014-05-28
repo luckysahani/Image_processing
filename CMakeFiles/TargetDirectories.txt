@@ -1,0 +1,3 @@
+/home/lucky/machine_learning/bgslibrary-master/CMakeFiles/bgs.dir
+/home/lucky/machine_learning/bgslibrary-master/CMakeFiles/bgs_bin.dir
+/home/lucky/machine_learning/bgslibrary-master/CMakeFiles/bgs_demo.dir
